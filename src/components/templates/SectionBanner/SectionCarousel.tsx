@@ -93,7 +93,7 @@ export const SectionCarousel = () => {
 				</Slider>
 				<div className="text-white right-0 left-0 absolute top-24 bottom-0 flex justify-center flex-col px-8">
 					<h1 className="text-4xl font-semibold mb-4">{HomeData.title}</h1>
-					<p className="text-xl mb-6 pr-[0rem] lg:pr-[48rem] md:pr-[48rem]">
+					<p className="text-xl mb-6 pr-[0rem] lg:pr-[48rem] md:pr-[0rem]">
 						{HomeData.subtitle}
 					</p>
 					<div>
