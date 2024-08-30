@@ -13,9 +13,9 @@ export const featureData = {
 			list: [
 				{
 					id: 1,
-					title: "Data Caleg per Partai pada Pileg 2019",
+					title: "Data Kandidat per Partai pada Pileg 2019",
 					subtitle:
-						"Dapatkan informasi tentang data Caleg per Partai pada Pileg 2019 untuk memahami pola pemilih dan mengukur popularitas partai.",
+						"Dapatkan informasi tentang data Kandidat per Partai pada Pileg 2019 untuk memahami pola pemilih dan mengukur popularitas partai.",
 					imageUrl: "null",
 				},
 				{
@@ -170,9 +170,9 @@ export const featureData = {
 				},
 				{
 					id: 2,
-					title: "Rekomendasi Strategi (Berdasarkan Isu Pilihan Caleg)",
+					title: "Rekomendasi Strategi (Berdasarkan Isu Pilihan Kandidat)",
 					subtitle:
-						"Dapatkan rekomendasi strategi kampanye yang telah sesuai dengan isu pilihan caleg dan data daerah pemilihan hingga level kecamatan.",
+						"Dapatkan rekomendasi strategi kampanye yang telah sesuai dengan isu pilihan Kandidat dan data daerah pemilihan hingga level kecamatan.",
 					imageUrl: null,
 				},
 
@@ -180,7 +180,7 @@ export const featureData = {
 					id: 3,
 					title: "Rekomendasi Strategi (Berdasarkan Isu Kritikal Dapil)",
 					subtitle:
-						"Dapatkan rekomendasi strategi kampanye yang telah sesuai dengan isu yang relevan berdasarkan latar belakang caleg dan isu kritikal di daerah pemilihan hingga level kecamatan.",
+						"Dapatkan rekomendasi strategi kampanye yang telah sesuai dengan isu yang relevan berdasarkan latar belakang Kandidat dan isu kritikal di daerah pemilihan hingga level kecamatan.",
 					imageUrl: null,
 				},
 				{

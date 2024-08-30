@@ -79,7 +79,7 @@ export const navMenuData: INavData[] = [
 			},
 			{
 				id: 3,
-				name: "Alur Penggunaan Dashboard Monev untuk caleg Relawan",
+				name: "Alur Penggunaan Dashboard Monev untuk Kandidat Relawan",
 				slug: "#data-sosial-media",
 			},
 		],
