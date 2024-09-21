@@ -8,8 +8,6 @@ export default function HomePage() {
 			<Home.SectionProblem />
 			<Home.SectionSolution />
 			<Home.SectionService />
-			<Home.SectionVideo />
-			<Home.SectionArticle />
 		</MainLayout>
 	);
 }
